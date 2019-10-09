@@ -18,7 +18,7 @@ supports 'ubuntu'
 supports 'centos'
 
 depends 'ark', '~> 3.0'
-depends 'homebrew', '~> 4.2'
+depends 'homebrew', '~> 5.0'
 depends 'java', '~> 4.0'
 depends 'runit', '~> 4.0'
 depends 'seven_zip'
